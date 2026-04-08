@@ -29,7 +29,9 @@ A simple Pong game built using Unity as part of the 20 Games Challenge.
 ## Screenshots
 
 ### Gameplay
-![Gameplay](Screenshots/pong1.png)
+![Gameplay](Screenshots/pong2.png)
 
 ### Win Screen
-![Win](Screenshots/pong2.png)
+![Win](Screenshots/pong1.png)
+![Win](Screenshots/pong3.png)
+
